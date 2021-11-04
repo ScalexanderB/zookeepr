@@ -126,6 +126,18 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Phoenix",
+      "species": "Cat",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious",
+        "loving",
+        "goofy"
+      ],
+      "id": "13"
     }
   ]
 }
