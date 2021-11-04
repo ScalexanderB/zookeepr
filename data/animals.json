@@ -138,6 +138,19 @@
         "goofy"
       ],
       "id": "13"
+    },
+    {
+      "name": "Cocoa",
+      "species": "Dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious",
+        "loving",
+        "goofy"
+      ],
+      "id": "14"
     }
   ]
 }
